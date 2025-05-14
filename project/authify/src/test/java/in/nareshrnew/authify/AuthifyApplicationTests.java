@@ -1,4 +1,4 @@
-package in.bushansirgur.authify;
+package in.nareshrnew.authify;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
